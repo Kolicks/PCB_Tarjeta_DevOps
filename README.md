@@ -16,8 +16,8 @@
 It serves as a **general-purpose development board** adapted from the **ST Nucleo-F412ZG** design, focusing on practical layout challenges and signal-integrity learning (Ethernet, differential pairs, impedance control).
 
 <p align="center">
-  <img src="images/3D.png" alt="3D Top" width="480" height="700"/>
-  <img src="images/3D_Bottom.png" alt="3D Bottom" width="480" height="700"/>
+  <img src="images/3D.png" alt="3D Top" width="480" height="800"/>
+  <img src="images/3D_Bottom.png" alt="3D Bottom" width="480" height="800"/>
   <br>
   <em>3D renders of the PCB_Tarjeta_DevOps — Top and Bottom views</em>
 </p>
