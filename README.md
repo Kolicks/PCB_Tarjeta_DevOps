@@ -85,8 +85,6 @@ PCB_Tarjeta_DevOps/
 
 ├── images/ # Rendered visuals (3D, SCH, PCB)
 
-├── firmware/ # Optional MCU firmware (if applicable)
-
 ├── LICENSE # Hardware license (CERN-OHL-P v2.0)
 
 └── README.md # Project documentation
