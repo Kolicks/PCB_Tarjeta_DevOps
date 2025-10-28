@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-05042024-056084";"";
+"REFERENCE";"MDLSP1-10M-01";"";
+"TraceParts.PartTitle";"Standard Snap Lock Supports";"";
+"TraceParts.InstanceId";"90-05042024-05608438F0714UNEDQ501VXXXNYZRL1";"";
+"SUPPLIER";"Essentra Components";"";
+"DESIGN";"Snap Lock Support 10.0 mm PA UL94 V-2 Natural";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.1";"";
