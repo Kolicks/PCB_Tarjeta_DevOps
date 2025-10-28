@@ -76,12 +76,19 @@ It serves as a **general-purpose development board** adapted from the **ST Nucle
 
 ## 🧩 Repository Structure
 PCB_Tarjeta_DevOps/
+
 ├── schematic/ # KiCad schematic files
+
 ├── pcb_layout/ # KiCad PCB layout files
+
 ├── gerbers/ # Gerber fabrication files
+
 ├── images/ # Rendered visuals (3D, SCH, PCB)
+
 ├── firmware/ # Optional MCU firmware (if applicable)
+
 ├── LICENSE # Hardware license (CERN-OHL-P v2.0)
+
 └── README.md # Project documentation
 
 
