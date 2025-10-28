@@ -93,7 +93,7 @@ You are free to use, modify, and distribute this design, provided that:
 - The license is included with redistributions.
 - Proper credit is given to the original author.
 
-More info: [https://ohwr.org/project/cernohl/wikis/home](https://ohwr.org/project/cernohl/wikis/home](https://cern-ohl.web.cern.ch/)
+More info: https://cern-ohl.web.cern.ch/
 
 ---
 
